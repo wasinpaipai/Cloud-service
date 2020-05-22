@@ -10,4 +10,4 @@
 </ul>
 
 Document: https://docs.google.com/document/d/13BauwpvL_-9i9fccYRuZ1jVdWdboeagEsWf0cgeKKQc/edit?usp=sharing
-Video:
+Video:https://www.youtube.com/watch?v=GGkGZ10MQU4&feature=youtu.be&fbclid=IwAR1BfGw2-i1yz4SzrNugozC2f3u_H3O_DkvPwpD9Qs9ZCQyr1pBJp7g1sQA
